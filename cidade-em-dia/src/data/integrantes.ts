@@ -6,7 +6,7 @@ export const integrantes: Integrante[] = [
     nome: "Giovanni de Souza Lima",
     rm: "556536",
     turma: "1TDSPI",
-    foto: "/assets/giovanni.jpg",
+    foto: "/public/giovanni.jpg",
     funcao: "Projeto individual Global solution: front-end e API Java",
     sobre:
       "Aluno do de Análise e Desenvolvimento de Sistemas da FIAP. Desenvolveu sozinho o Cidade em Dia para a Global Solution 2026/2, no tema CitizenTech.",

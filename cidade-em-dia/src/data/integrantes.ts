@@ -15,7 +15,7 @@ export const integrantes: Integrante[] = [
       "Front-end em React, Vite, TypeScript e Tailwind CSS",
       "Integração do front com a API Java(básica)",
       "API Java básica para as ocorrências",
-      "Publicação na Vercel e no Render e documentação no GitHub",
+      "Publicação da aplicação e da APIno Render e documentação no GitHub",
     ],
     github: "https://github.com/GiovanniSouzaL",
     linkedin: "https://www.linkedin.com/in/giovanni-de-souza-lima-2770943b5/",

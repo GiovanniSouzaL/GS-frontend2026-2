@@ -1,5 +1,5 @@
 export const API_URL: string =
-  import.meta.env.VITE_API_URL ?? "https://cidade-em-dia-api.onrender.com";
+  import.meta.env.VITE_API_URL ?? "http://localhost:8080";
 
 export class ErroApi extends Error {
   status: number;

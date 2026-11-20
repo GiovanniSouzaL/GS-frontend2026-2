@@ -19,7 +19,6 @@ const tecnologias = [
   "React Hook Form e Yup",
   "Fetch API",
   "API REST em Java",
-  "Render",
   "GitHub",
 ];
 
